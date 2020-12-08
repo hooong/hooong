@@ -2,7 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhooong&count_bg=%2394EDC6&title_bg=%23555555&icon=buymeacoffee.svg&icon_color=%23FFFFFF&title=hooong&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Hooong's github stats](https://github-readme-stats.vercel.app/api?username=hooong&show_icons=true&custom_title=hooong's Stats)](https://github.com/hooong)
+[![hooong's github stats](https://github-readme-stats.vercel.app/api?username=hooong&custom_title=hooong's_Stats&show_icons=true&count_private=true)](https://github.com/hooong)
+
 
 <!--
 **hooong/hooong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
