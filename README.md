@@ -21,7 +21,7 @@
 
 ---
 
-<div algin="center">
+<div align="center">
   
 <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hsj0531">
 
@@ -29,7 +29,7 @@
 
 ---
 
-<div algin="center">
+<div align="center">
   
 <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhooong&count_bg=%2394EDC6&title_bg=%23555555&icon=buymeacoffee.svg&icon_color=%23FFFFFF&title=hooong&edge_flat=false">
 
