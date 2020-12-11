@@ -1,4 +1,4 @@
-## Wellcome hooong's GitHub🙌
+## Wellcome hooong's GitHub 🙌
 <br>
 
 <div align="center">
@@ -9,7 +9,6 @@
 </div>
 
 <br>
-<br>
 
 --- 
 
@@ -18,8 +17,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hooong&custom_title=hooong's_Stats&show_icons=true&count_private=true">
 
 </div>
-
----
 
 <div align="center">
   
