@@ -1,6 +1,8 @@
 ## Wellcome hooong's GitHub 🙌
 <br>
 
+- 🌱 I’m currently learning 
+
 <div align="center">
   
 <h3 align="center">My moto is ...🤔</h3>
@@ -24,11 +26,14 @@
 
 </div>
 
+<img src="https://img.shields.io/github/followers/hooong?style=social">
+<imb stc="https://img.shields.io/github/stars/hooong?style=social">
+
 ---
 
 <div align="center">
   
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhooong&count_bg=%2394EDC6&title_bg=%23555555&icon=buymeacoffee.svg&icon_color=%23FFFFFF&title=hooong&edge_flat=false">
+<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhooong&count_bg=%2394EDC6&title_bg=%23555555&icon=buymeacoffee.svg&icon_color=%23FFFFFF&edge_flat=false">
 
 </div>
 
