@@ -1,7 +1,5 @@
 ## Wellcome hooong's GitHub 🙌
 
-<br>
-
 ### 🙋🏻‍♂️Hi there
 
  I'm Hong Seok Jun. I will be a Back-end Engineer.
