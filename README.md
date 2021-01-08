@@ -2,7 +2,7 @@
 
 ### 🙋🏻‍♂️Hi there
 
- I'm Hong Seok Jun. I will be a Back-end Engineer.
+ I'm Hong Seok Jun. I'm gonna be a Back-end Engineer.
 
 My moto is "The Journey is The Reward.", so I am studying steadily.
 
