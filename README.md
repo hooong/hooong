@@ -30,7 +30,6 @@ My moto is "The Journey is The Reward.", so I am studying steadily.
 - Java ( Spring Boot, IntelliJ )
 - Linux ( Ubuntu, CentOS )
 - AWS ( EC2, RDS, S3 ... )
-- Docker, K8s, Redis ...
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=hooong&custom_title=hooong's_Stats&show_icons=true&count_private=true&bg_color=262729&hide_border=true&icon_color=949494&title_color=ffffff&text_color=949494">
 
