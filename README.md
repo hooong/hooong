@@ -27,7 +27,6 @@ My moto is "The Journey is The Reward.", so I am studying steadily.
 ### 🔨 Stack
 
 - Python3 ( Django, DRF, Pycharm )
-- Java ( Spring Boot, IntelliJ )
 - Linux ( Ubuntu, CentOS )
 - AWS ( EC2, RDS, S3 ... )
 
