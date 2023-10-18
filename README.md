@@ -2,7 +2,7 @@
 
 ### 🙋🏻‍♂️Hi there
 
- I'm Hong Seok Jun. I'm a Back-end Engineer.
+ I'm SeokJun Hong. I'm a Back-end Engineer.
 
 <br>
 
