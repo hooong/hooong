@@ -18,7 +18,7 @@ My moto is "The Journey is The Reward.", so I am studying steadily.
 
 ### 👨🏻‍💻 Experience
 
-- Birdview Backend Engineer (2021 ~ )
+- Birdview Backend Engineer (2021/02 ~ 2023/10)
 - Software Maestro 11기 (2020)
 - 멋쟁이 사자처럼 6기 및 7기 교내 운영진 (2018 ~ 2019)
 
@@ -27,8 +27,8 @@ My moto is "The Journey is The Reward.", so I am studying steadily.
 ### 🔨 Stack
 
 - Python3 ( Django, DRF, Pycharm )
-- Linux ( Ubuntu, CentOS )
-- AWS ( EC2, RDS, S3 ... )
+- Linux
+- AWS ( EC2, RDS, S3 )
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=hooong&custom_title=hooong's_Stats&show_icons=true&count_private=true&bg_color=262729&hide_border=true&icon_color=949494&title_color=ffffff&text_color=949494">
 
