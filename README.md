@@ -1,4 +1,4 @@
-## Wellcome hooong's GitHub 🙌
+## Welcome hooong's GitHub 🙌
 
 ### 🙋🏻‍♂️Hi there
 
