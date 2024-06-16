@@ -25,6 +25,14 @@
 ---
 
 <div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/hooong"/>
+  </a>
+</div>
+
+</br>
+
+<div align="center">
 
 <img src="https://img.shields.io/github/followers/hooong?style=social"> <img src="https://img.shields.io/github/stars/hooong?style=social"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhooong&count_bg=%2394EDC6&title_bg=%23555555&icon=buymeacoffee.svg&icon_color=%23FFFFFF&edge_flat=false">
 <br><img src="https://github-readme-stats.vercel.app/api?username=hooong&custom_title=hooong's_Stats&show_icons=true&count_private=true&bg_color=262729&hide_border=true&icon_color=949494&title_color=ffffff&text_color=949494">
