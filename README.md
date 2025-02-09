@@ -5,6 +5,7 @@
 
 ### 👨🏻‍💻 Experience
 
+- 포자랩스 Backend Engineer (2024/03 ~ 2025/02)
 - 화해(Birdview) Backend Engineer - 커머스 어드민 사이트 운영/관리 (2021/02 ~ 2023/10)
 - Software Maestro 11기 (2020)
 - 멋쟁이 사자처럼 6기 및 7기 교내 운영진 (2018 ~ 2019)
@@ -12,10 +13,10 @@
 
 ### 🔨 Stack
 
-- Python3 ( Django, DRF, Pycharm )
-- MySQL
+- Python3 ( Django, DRF, FastAPI )
+- MySQL, MongoDB
 - Linux
-- AWS ( EC2, RDS, S3 )
+- AWS ( EC2, RDS, S3, ECS, StepFunction etc..)
 
 ### 📞 Contact
 
